@@ -1,0 +1,25 @@
+From b7099014c90b82ee57c3b1c89db716b53b6b879c Mon Sep 17 00:00:00 2001
+From: moshe <moshe@yahoo.com>
+Date: Fri, 14 Jul 2017 10:38:04 +0530
+Subject: [PATCH] changes made on subbrach
+
+---
+ main.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/main.c b/main.c
+index 90ac5e5..7454571 100644
+--- a/main.c
++++ b/main.c
+@@ -9,6 +9,6 @@ printf("extar addede");
+ =======
+   int a=20;
+   int b=2;
+-  
+->>>>>>> a227adb8bfa08baee0f5f075f5e1a1e53ee1fa71
++printf ("sub branch added");
++ 
+ }
+-- 
+1.9.1
+
