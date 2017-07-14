@@ -9,6 +9,6 @@ printf("extar addede");
 =======
   int a=20;
   int b=2;
-  
->>>>>>> a227adb8bfa08baee0f5f075f5e1a1e53ee1fa71
+printf ("sub branch added");
+ 
 }
